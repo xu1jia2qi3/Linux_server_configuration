@@ -5,6 +5,7 @@
 - Login into [Amazon Lightsail](https://lightsail.aws.amazon.com/ls/webapp/home/resources) using an Amazon Web Services account.
 - Once you are login into the site, click `Create instance`. 
 - Choose `Linux/Unix` platform, `OS Only` and  `Ubuntu 16.04 LTS`.
+
 **Reference**
  [Amazon Lightsail](https://serverpilot.io/community/articles/how-to-create-a-server-on-amazon-lightsail.html).
 
