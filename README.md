@@ -170,6 +170,12 @@ sudo apt-get upgrade
 - run flask application by python by command `nohup sudo venv3/bin/python __init__.py`
 - Open your browser to http://35.183.68.62 or http://35.183.68.62.xip.io (if you want to login, you have to use http://35.183.68.62.xip.io as address)
 
-**Reference**
 https://stackoverflow.com/questions/42336524/have-python-script-run-in-background-of-unix?rq=1
+### References:
+* [Amazon Lightsail](https://serverpilot.io/community/articles/how-to-create-a-server-on-amazon-lightsail.html).
+* [python nohup] https://stackoverflow.com/questions/42336524/have-python-script-run-in-background-of-unix?rq=1
+* [Flask and mod_wsg](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
+* [Virtualenv](https://virtualenv.pypa.io/en/stable/userguide/#usage)
+* [Digital Ocean: How To Add, Delete, and Grant Sudo Privileges to Users ](https://www.digitalocean.com/community/tutorials/how-to-add-delete-and-grant-sudo-privileges-to-users-on-a-debian-vps)
+* [Digital Ocean: Deploy a Flask Application on an Ubuntu ](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
 
