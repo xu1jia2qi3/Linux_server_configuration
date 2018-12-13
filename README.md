@@ -170,3 +170,6 @@ sudo apt-get upgrade
 - run flask application by python by command `nohup sudo venv3/bin/python __init__.py`
 - Open your browser to http://35.183.68.62 or http://35.183.68.62.xip.io (if you want to login, you have to use http://35.183.68.62.xip.io as address)
 
+**Reference**
+https://stackoverflow.com/questions/42336524/have-python-script-run-in-background-of-unix?rq=1
+
