@@ -5,6 +5,8 @@
 - Login into [Amazon Lightsail](https://lightsail.aws.amazon.com/ls/webapp/home/resources) using an Amazon Web Services account.
 - Once you are login into the site, click `Create instance`. 
 - Choose `Linux/Unix` platform, `OS Only` and  `Ubuntu 16.04 LTS`.
+**Reference**
+ [Amazon Lightsail](https://serverpilot.io/community/articles/how-to-create-a-server-on-amazon-lightsail.html).
 
 ### Step 2: SSH into the server
 
@@ -100,13 +102,7 @@ sudo apt-get upgrade
 
 ### Step 9: Configure the local timezone to UTC
 
-- While logged in as `grader`, configure the time zone: `sudo dpkg-reconfigure tzdata`. You should see something like that:
-
-  ```
-  Current default time zone: 'America/Montreal'
-  Local time is now:      Thu Oct 19 21:55:16 EDT 2017.
-  Universal Time is now:  Fri Oct 20 01:55:16 UTC 2017.
-  ```
+- While logged in as `grader`, configure the time zone: `sudo dpkg-reconfigure tzdata`. 
 
 ### Step 10: Install git
 
