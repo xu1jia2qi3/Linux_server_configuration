@@ -171,5 +171,5 @@ sudo apt-get upgrade
 ### Step 14.6: Launch the Web Application
 
 - run flask application by python by command `nohup sudo venv3/bin/python __init__.py`
-- Open your browser to http://35.183.68.62 orhttp://35.183.68.62.xip.io (if you want to login, you have to use http://35.183.68.62.xip.io as address)
+- Open your browser to http://35.183.68.62 or http://35.183.68.62.xip.io (if you want to login, you have to use http://35.183.68.62.xip.io as address)
 
