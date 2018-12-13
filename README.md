@@ -125,7 +125,7 @@ sudo apt-get upgrade
 
 - Rename the `application.py` file to `__init__.py` using: `mv application.py __init__.py`.
 
-- In `__init__.py`, replace line 27:
+- In `__init__.py`, replace:
 
   ```
   # app.run(host="0.0.0.0", port=8000, debug=True)
